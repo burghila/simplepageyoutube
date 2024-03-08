@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+#myAnimation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: yellow; /* Sets the background color to yellow */
+    color: black; /* Sets the text color to black */
+    padding: 10px; /* Adds some space around the text */
+}
